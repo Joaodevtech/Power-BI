@@ -9,12 +9,19 @@ O objetivo é fornecer uma visão clara e dinâmica dos principais indicadores d
 ## 📌 Funcionalidades do Dashboard
 
 ✅ **Faturamento Total** – Exibe o valor consolidado do período.
+
 ✅ **Quantidade de Vendas** – Total de vendas realizadas.
+
 ✅ **Média de Vendas** – Ticket médio por venda.
+
 ✅ **Faturamento por Produtos** – Ranking dos itens mais vendidos.
+
 ✅ **Faturamento por Categorias** – Distribuição do faturamento entre **Acessórios, Alimentos, Eletrônicos e Vestuário**.
+
 ✅ **Faturamento por Filial** – Comparativo entre **Rio de Janeiro, Bahia e São Paulo**.
+
 ✅ **Evolução Mensal do Faturamento** – Análise temporal para identificar sazonalidade.
+
 ✅ **Filtros Dinâmicos por Gerente** – Permite segmentar os resultados.
 
 ---
