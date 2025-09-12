@@ -78,6 +78,3 @@ Desenvolvido por **João Paulo**
 📍 Estagiário em TI | Desenvolvedor Web
 🔗 [LinkedIn](www.linkedin.com/in/joaopaulodevtech) | [GitHub](https://github.com/Joaodevtech)
 
----
-
-Quer que eu crie esse README já formatado em **Markdown (`README.md`)** para você baixar e usar direto no GitHub?
