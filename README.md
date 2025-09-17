@@ -24,7 +24,7 @@ O objetivo deste repositório é demonstrar meus conhecimentos em <b>Business In
   <tbody>
     <tr>
       <td style="white-space: nowrap;"><a href="https://github.com/Joaodevtech/Power-BI/tree/main/Dashboard%20Comercial">📈 Relatório Comercial</a></td>
-      <td style="white-space: nowrap;">Power BI, Excel</td>
+      <td style="white-space: nowrap;">Power BI, DAX, Excel</td>
       <td style="white-space: nowrap;">Dashboard para acompanhamento de vendas, faturamento e desempenho por produto, categoria e filial.</td>
     </tr>
     <tr>
