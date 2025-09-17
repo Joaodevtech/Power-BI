@@ -29,7 +29,9 @@ O objetivo é fornecer uma visão clara e dinâmica dos principais indicadores d
 
 ## 📷 Screenshot do Dashboard
 
-![Dashboard Comercial](./Dashboard.png)
+<div>
+  <img src="https://github.com/Joaodevtech/Power-BI/blob/main/Dashboard%20Comercial/Dashboard.png">
+</div>
 
 ---
 
