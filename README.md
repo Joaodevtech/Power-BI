@@ -13,24 +13,24 @@ O objetivo deste repositório é demonstrar meus conhecimentos em <b>Business In
 
 <h2>🌟 Projetos Concluídos</h2>
 
-<table>
+<table style="width:100%; table-layout: fixed; border-collapse: collapse;">
   <thead>
     <tr>
-      <th style="text-align:left; padding:8px;">Projeto</th>
-      <th style="text-align:left; padding:8px;">Tecnologias</th>
-      <th style="text-align:left; padding:8px;">Descrição</th>
+      <th style="text-align:left; padding:10px; white-space: nowrap;">Projeto</th>
+      <th style="text-align:left; padding:10px; white-space: nowrap;">Tecnologias</th>
+      <th style="text-align:left; padding:10px; white-space: nowrap;">Descrição</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>📈 Relatório Comercial - Power BI</td>
-      <td>Power BI, Excel</td>
-      <td>Dashboard para acompanhamento de vendas, faturamento e desempenho por produto, categoria e filial.</td>
+      <td style="white-space: nowrap;"><a href="https://github.com/Joaodevtech/Power-BI/tree/main/Dashboard%20Comercial">📈 Relatório Comercial</a></td>
+      <td style="white-space: nowrap;">Power BI, Excel</td>
+      <td style="white-space: nowrap;">Dashboard para acompanhamento de vendas, faturamento e desempenho por produto, categoria e filial.</td>
     </tr>
     <tr>
-      <td>🚀 Projeto Futuro</td>
-      <td>Power BI</td>
-      <td>Breve descrição de um projeto em desenvolvimento.</td>
+      <td style="white-space: nowrap;">🚀 Projeto Futuro</td>
+      <td style="white-space: nowrap;">Power BI</td>
+      <td style="white-space: nowrap;">Breve descrição de um projeto em desenvolvimento.</td>
     </tr>
   </tbody>
 </table>
@@ -67,8 +67,8 @@ O objetivo deste repositório é demonstrar meus conhecimentos em <b>Business In
 
 <h2>📫 Contato</h2>
 <p>
-LinkedIn: <a href="www.linkedin.com/in/joaopaulodevtech">Joaodev.tech</a><br>
-Email: <a href="joaodev.tech@outlook.com">Joaodev.tech@outlook.com
+LinkedIn: <a href="https://www.linkedin.com/in/joaopaulodevtech">Joaodev.tech</a><br>
+Email: <a href="mailto:joaodev.tech@outlook.com">Joaodev.tech@outlook.com</a>
 </p>
-<h2> </h2>
-<p align = "center">Feito com 💙 por <b>João Paulo Souza Silva</b></p>
+
+<p align="center">Feito com 💙 por <b>João Paulo Souza Silva</b></p>
