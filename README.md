@@ -52,10 +52,10 @@ O objetivo deste repositório é demonstrar meus conhecimentos em <b>Business In
 <h2>🚀 Como visualizar os projetos localmente</h2>
 <ol>
   <li>Clone o repositório:<br>
-    <code>git clone https://github.com/SEU-USUARIO/PowerBI-Projetos.git</code>
+    <code>git clone git clone https://github.com/Joaodevtech/PowerBI.git</code>
   </li>
   <li>Acesse o diretório do projeto desejado:<br>
-    <code>cd PowerBI-Projetos/Relatorio_Comercial</code>
+    <code>cd PowerBI/Dashboard Comercial</code>
   </li>
   <li>Abra o arquivo <code>.pbix</code> no <b>Power BI Desktop</b>.</li>
   <li>Conecte à base de dados caso necessário e explore os relatórios interativos.</li>
