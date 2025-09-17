@@ -1,80 +1,74 @@
-# 📊 Relatório Comercial - Power BI
+<h1 align="center">📊 Power BI Projects</h1>
 
-Este projeto consiste em um **Dashboard Comercial** desenvolvido no **Power BI**, com foco no acompanhamento de vendas, faturamento e desempenho por produto, categoria e filial.
+<p align="center">
+Bem-vindo ao meu repositório de <b>Power BI</b>! 🚀<br>
+Aqui você encontrará todos os projetos que estou desenvolvendo ou já concluí, usando <b>Power BI</b>, DAX, Power Query e outras ferramentas de análise de dados.
+</p>
 
-O objetivo é fornecer uma visão clara e dinâmica dos principais indicadores de desempenho da área comercial, ajudando gestores e analistas na tomada de decisão.
+<p>
+O objetivo deste repositório é demonstrar meus conhecimentos em <b>Business Intelligence (BI)</b> e funcionar como meu <b>portfólio de projetos de análise de dados</b>.
+</p>
 
----
+<hr>
 
-## 📌 Funcionalidades do Dashboard
+<h2>🌟 Projetos Concluídos</h2>
 
-✅ **Faturamento Total** – Exibe o valor consolidado do período.
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left; padding:8px;">Projeto</th>
+      <th style="text-align:left; padding:8px;">Tecnologias</th>
+      <th style="text-align:left; padding:8px;">Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>📈 Relatório Comercial - Power BI</td>
+      <td>Power BI, Excel</td>
+      <td>Dashboard para acompanhamento de vendas, faturamento e desempenho por produto, categoria e filial.</td>
+    </tr>
+    <tr>
+      <td>🚀 Projeto Futuro</td>
+      <td>Power BI</td>
+      <td>Breve descrição de um projeto em desenvolvimento.</td>
+    </tr>
+  </tbody>
+</table>
 
-✅ **Quantidade de Vendas** – Total de vendas realizadas.
+<p>💡 Todos os projetos incluem arquivos <code>.pbix</code>, bases de dados, screenshots e documentação interna.</p>
 
-✅ **Média de Vendas** – Ticket médio por venda.
+<hr>
 
-✅ **Faturamento por Produtos** – Ranking dos itens mais vendidos.
+<h2>💻 Tecnologias que estou explorando</h2>
+<ul>
+  <li>📊 <b>Power BI Desktop</b></li>
+  <li>📄 <b>Excel / CSV</b> (como fonte de dados)</li>
+  <li>⚡ <b>DAX</b> (Data Analysis Expressions)</li>
+  <li>🔄 <b>Power Query</b> (transformação e modelagem de dados)</li>
+</ul>
 
-✅ **Faturamento por Categorias** – Distribuição do faturamento entre **Acessórios, Alimentos, Eletrônicos e Vestuário**.
+<hr>
 
-✅ **Faturamento por Filial** – Comparativo entre **Rio de Janeiro, Bahia e São Paulo**.
+<h2>🚀 Como visualizar os projetos localmente</h2>
+<ol>
+  <li>Clone o repositório:<br>
+    <code>git clone https://github.com/SEU-USUARIO/PowerBI-Projetos.git</code>
+  </li>
+  <li>Acesse o diretório do projeto desejado:<br>
+    <code>cd PowerBI-Projetos/Relatorio_Comercial</code>
+  </li>
+  <li>Abra o arquivo <code>.pbix</code> no <b>Power BI Desktop</b>.</li>
+  <li>Conecte à base de dados caso necessário e explore os relatórios interativos.</li>
+</ol>
 
-✅ **Evolução Mensal do Faturamento** – Análise temporal para identificar sazonalidade.
+<p>💡 Todos os dashboards são interativos e podem ser explorados com filtros e segmentações.</p>
 
-✅ **Filtros Dinâmicos por Gerente** – Permite segmentar os resultados.
+<hr>
 
----
-
-## 📷 Screenshot do Dashboard
-
-![Dashboard Comercial](./Dashboard.png)
-
----
-
-## 🚀 Tecnologias Utilizadas
-
-* **Power BI Desktop** – Para modelagem de dados e criação do relatório.
-* **DAX (Data Analysis Expressions)** – Para criação de medidas e cálculos personalizados.
-* **Excel / CSV** – Fonte de dados base para o projeto.
-
----
-
-## 📂 Estrutura do Projeto
-
-```
-📁 Relatorio_Comercial_PowerBI
-│-- 📄 Relatorio.pbix   # Arquivo do Power BI
-│-- 📊 BaseDados.xlsx   # Base de dados utilizada
-│-- 🖼️ Dashboard.png    # Captura de tela do dashboard
-│-- 📄 README.md        # Documentação do projeto
-```
-
----
-
-## 🎯 Objetivo do Projeto
-
-O projeto foi desenvolvido para:
-
-* Monitorar o desempenho das vendas em diferentes produtos e categorias.
-* Avaliar o faturamento por filiais.
-* Identificar padrões de comportamento mensal no faturamento.
-* Fornecer insights estratégicos para tomada de decisão.
-
----
-
-## 📌 Como Abrir o Relatório
-
-1. Baixe o arquivo `Relatorio.pbix`.
-2. Abra no **Power BI Desktop**.
-3. Conecte à base de dados caso necessário.
-4. Explore os gráficos e filtros interativos.
-
----
-
-## 👨‍💻 Autor
-
-Desenvolvido por **João Paulo**
-📍 Estagiário em TI | Desenvolvedor Web
-🔗 [LinkedIn](www.linkedin.com/in/joaopaulodevtech) | [GitHub](https://github.com/Joaodevtech)
-
+<h2>📫 Contato</h2>
+<p>
+LinkedIn: <a href="www.linkedin.com/in/joaopaulodevtech">Joaodev.tech</a><br>
+Email: <a href="joaodev.tech@outlook.com">Joaodev.tech@outlook.com
+</p>
+<h2> </h2>
+<p align = "center">Feito com 💙 por <b>João Paulo Souza Silva</b></p>
